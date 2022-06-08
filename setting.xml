@@ -33,7 +33,7 @@
                     </snapshots>
                     <id>central</id>
                     <name>maven-public</name>
-                    <url>http://13.232.232.203:8081/repository/maven-public/</url>
+                    <url>http://43.204.108.87:8081/repository/maven-public/</url>
                 </repository>
                 <repository>
                     <snapshots>
@@ -41,13 +41,13 @@
                     </snapshots>
                     <id>releases</id>
                     <name>maven-releases</name>
-                    <url>http://13.232.232.203:8081/repository/maven-releases/</url>
+                    <url>http://43.204.108.87:8081/repository/maven-releases/</url>
                 </repository>
                 <repository>
                     <snapshots/>
                     <id>snapshots</id>
                     <name>maven-snapshots</name>
-                    <url>http://13.232.232.203:8081/repository/maven-snapshots/</url>
+                    <url>http://43.204.108.87:8081/repository/maven-snapshots/</url>
                 </repository>
             </repositories>
             <pluginRepositories>
@@ -57,7 +57,7 @@
                     </snapshots>
                     <id>public</id>
                     <name>maven-public</name>
-                    <url>http://13.232.232.203:8081/repository/maven-public/</url>
+                    <url>http://43.204.108.87:8081/repository/maven-public/</url>
                 </pluginRepository>
                 <pluginRepository>
                     <snapshots>
@@ -65,13 +65,13 @@
                     </snapshots>
                     <id>releases</id>
                     <name>maven-releases</name>
-                    <url>http://13.232.232.203:8081/repository/maven-releases/</url>
+                    <url>http://43.204.108.87:8081/repository/maven-releases/</url>
                 </pluginRepository>
                 <pluginRepository>
                     <snapshots/>
                     <id>snapshots</id>
                     <name>maven-snapshots</name>
-                    <url>http://13.232.232.203:8081/repository/maven-snapshots//</url>
+                    <url>http://43.204.108.87:8081/repository/maven-snapshots//</url>
                 </pluginRepository>
             </pluginRepositories>
         </profile>
